@@ -5,7 +5,7 @@
         "request": "launch",
         "type": "playdate",
         "name": "Run app in Playdate simulator",
-        "source": "${workspaceRoot}/src",
+        "source": "${workspaceRoot}/Source",
         "output": "${workspaceRoot}/output.pdx",
         "sdkPath": "${env:HOME}/Developer/PlaydateSDK"
       }

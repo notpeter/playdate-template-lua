@@ -1,13 +1,4 @@
 {
-    "Lua.runtime.nonstandardSymbol": [
-        "+=", "-=", "*=", "/=", "//=", "%=", "<<=", ">>=", "&=", "|=", "^="
-    ],
-    "Lua.diagnostics.globals": [
-        "import"
-    ],
-    "Lua.diagnostics.severity": {
-        "duplicate-set-field": "Hint",
-    },
-    "playdate.source": "src",
-    "playdate.output": "output.pdx",
+    "playdate.source": "Source",
+    "playdate.output": "output.pdx"
 }

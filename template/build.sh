@@ -2,5 +2,5 @@
 set -euo pipefail
 
 BUNDLE="$(basename $PWD).pdx"
-pdc src/main.lua "$BUNDLE"
+pdc Source/main.lua "$BUNDLE"
 open "$BUNDLE"
